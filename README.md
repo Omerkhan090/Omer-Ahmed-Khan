@@ -1,4 +1,4 @@
-# Omer-Ahmed-Khan
+
 # Hi, I'm Omerkhan 👋
 
 ### Robotics • AI • Computer Vision • Software Development
