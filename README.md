@@ -1,5 +1,5 @@
 
-# Hi, I'm Omerkhan 👋
+# Hi, I'm Omerkhan 
 
 ### Robotics • AI • Computer Vision • Software Development
 
@@ -8,22 +8,22 @@ software, AI, robotics, and real-world automation.
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
-### 🤖 Robotics
+###  Robotics
 - ESP32-based robot control
 - Odometry and motion systems
 - Encoders and motor control
 - Robocon projects
 
-### 📦 AI & Computer Vision
+###  AI & Computer Vision
 - YOLO object detection
 - OpenCV
 - OCR and document/text extraction
 - Barcode-based product inspection
 - Evidence-based image/video analysis
 
-### 💻 Software
+###  Software
 - Full-stack applications
 - Backend APIs
 - Cloud deployment
@@ -32,7 +32,7 @@ software, AI, robotics, and real-world automation.
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 **Languages**
 `C++` `Python` `C#` `JavaScript`
@@ -51,11 +51,11 @@ software, AI, robotics, and real-world automation.
 
 ---
 
-## 🔭 Current Projects
+##  Current Projects
 
-- 🤖 **Robocon** — robotics and autonomous/motion-control systems
-- 📦 **Packaged Product Inspection** — barcode + computer vision + OCR
-- 🍽️ **RestuSoft** — restaurant POS and analytics platform
+-  **Robocon team** — robotics and autonomous/motion-control systems
+-  **Packaged Product Inspection** — barcode + computer vision + OCR
+-  **RestuSoft** — restaurant POS and analytics platform
 
 ---
 
